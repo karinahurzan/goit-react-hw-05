@@ -1,0 +1,24 @@
+.container {
+  padding: 20px;
+}
+
+.back {
+  display: inline-block;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+.wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.poster {
+  width: 300px;
+}
+
+.links a {
+  margin-right: 15px;
+  text-decoration: underline;
+  cursor: pointer;
+}
